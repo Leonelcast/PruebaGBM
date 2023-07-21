@@ -1,0 +1,2 @@
+debe devolver 12 cuando la posición de destino es 78
+R: 12

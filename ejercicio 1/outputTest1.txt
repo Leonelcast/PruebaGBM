@@ -1,0 +1,2 @@
+Debe retornar true debido a que es un palíndromo
+R: True

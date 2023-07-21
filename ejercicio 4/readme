@@ -1,0 +1,16 @@
+## Requisitos previos
+
+- Asegúrate de tener Python instalado en tu ordenador. Puedes descargarlo desde el siguiente enlace: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+- Instala las siguientes dependencias: pip install pandas scikit-learn tensorflow
+
+## Cómo ejecutar el programa
+
+1. Abre una terminal.
+2. Navega hasta el directorio donde se encuentra el archivo `problema.py`.
+3. Ejecuta el siguiente comando en la consola: python3 problema.py
+
+## Cómo ejecutar pruebas unitarias
+
+1. Abre una terminal.
+2. Navega hasta el directorio donde se encuentra el archivo `test1.py`.
+3. Ejecuta el siguiente comando en la consola: python3 test1.py

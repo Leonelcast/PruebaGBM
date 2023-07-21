@@ -1,0 +1,2 @@
+Debe devolver 1 cuando la posición de destino es 1
+R: 1

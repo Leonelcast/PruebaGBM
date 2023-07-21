@@ -1,0 +1,17 @@
+## Requisitos previos
+
+- Asegúrate de tener Node.js instalado en tu ordenador. Puedes descargarlo desde el siguiente enlace: [https://nodejs.org](https://nodejs.org)
+- Instala la siguiente dependencia: npm install mocha chai --save-dev
+
+
+## Cómo ejecutar el programa
+
+1. Abre una terminal.
+2. Navega hasta el directorio donde se encuentra el archivo `problema.js`.
+3. Ejecuta el siguiente comando en la consola: node problema.js
+
+## Cómo ejecutar pruebas unitarias
+
+1. Abre una terminal.
+2. Navega hasta el directorio donde se encuentra el archivo `test.js`.
+3. Ejecuta el siguiente comando en la consola: npx mocha `nombreDelArchivo.js`

@@ -1,0 +1,2 @@
+debe devolver 10 cuando la posición de destino es 55
+R: 10

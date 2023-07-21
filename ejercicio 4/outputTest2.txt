@@ -1,0 +1,2 @@
+La columna value existe en el DataFrame df y todos los valores en la columna value están dentro del conjunto {0, 1, 2}
+R: True

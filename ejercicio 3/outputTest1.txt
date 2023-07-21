@@ -1,0 +1,2 @@
+debe devolver 0 cuando la posición de destino es 0
+R: True

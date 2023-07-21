@@ -1,0 +1,2 @@
+debe retornar false debido a que no es un palíndromo
+R: False

@@ -1,0 +1,2 @@
+train_model retorna algo distinto de None
+R: True

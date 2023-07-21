@@ -1,0 +1,2 @@
+debe devolver 17 cuando la posición de destino es 153
+R: 17
